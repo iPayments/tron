@@ -1,6 +1,4 @@
 # tron
-iPayments Tron API
-Upload Files In Your Server/File Manager
+iPayments Tron API\nUpload Files In Your Server/File Manager
 
-{Address Generator}
-build/index.php
+{Address Generator}\nbuild/index.php
