@@ -2,5 +2,5 @@
 iPayments Tron API
 Upload Files In Your Server/File Manager
 
-~Address Generator~
+{Address Generator}
 build/index.php
